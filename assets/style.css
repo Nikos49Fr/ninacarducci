@@ -97,6 +97,7 @@ body {
 .title{
 	text-align: center;
 	padding-block: 2em;
+    font-size: 28px;
 }
 .gallery .nav {
 	justify-content: center;
