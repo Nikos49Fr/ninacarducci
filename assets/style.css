@@ -41,6 +41,10 @@ body {
 .social-link img {
 	width: 20px;
 }
+/* carrousel */
+.visually-hidden {
+    color: #000;
+}
 
 #about {
 	display: flex;
